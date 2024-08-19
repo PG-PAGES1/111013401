@@ -1,0 +1,83 @@
+
+duobaogx.png
+size: 1164,1164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/fsw_particle_02
+  rotate: true
+  xy: 930, 890
+  size: 272, 208
+  orig: 538, 430
+  offset: 129, 96
+  index: -1
+lizi/fsw_particle_03
+  rotate: true
+  xy: 702, 102
+  size: 296, 234
+  orig: 538, 430
+  offset: 117, 82
+  index: -1
+lizi/fsw_particle_06
+  rotate: true
+  xy: 2, 2
+  size: 356, 296
+  orig: 538, 430
+  offset: 89, 50
+  index: -1
+lizi/fsw_particle_09
+  rotate: false
+  xy: 300, 16
+  size: 400, 342
+  orig: 538, 430
+  offset: 68, 27
+  index: -1
+lizi/fsw_particle_11
+  rotate: false
+  xy: 472, 400
+  size: 422, 364
+  orig: 538, 430
+  offset: 58, 16
+  index: -1
+lizi/fsw_particle_15
+  rotate: false
+  xy: 472, 766
+  size: 456, 396
+  orig: 538, 430
+  offset: 41, 1
+  index: -1
+lizi/fsw_particle_16
+  rotate: false
+  xy: 2, 360
+  size: 464, 398
+  orig: 538, 430
+  offset: 36, 1
+  index: -1
+lizi/fsw_particle_17
+  rotate: false
+  xy: 2, 760
+  size: 468, 402
+  orig: 538, 430
+  offset: 35, 1
+  index: -1
+zhongjiangyuansubiankuang/fs_s_edge
+  rotate: false
+  xy: 930, 696
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubiankuang/fs_s_shine
+  rotate: false
+  xy: 896, 451
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubiankuang/ui_mtp_glow
+  rotate: false
+  xy: 938, 322
+  size: 130, 127
+  orig: 130, 127
+  offset: 0, 0
+  index: -1

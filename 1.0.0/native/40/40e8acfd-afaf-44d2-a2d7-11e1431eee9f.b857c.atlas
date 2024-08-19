@@ -1,0 +1,34 @@
+
+fsw.jpg
+size: 1541,1430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fsw_num_vfx_a_screen
+  rotate: false
+  xy: 1, 383
+  size: 251, 252
+  orig: 251, 252
+  offset: 0, 0
+  index: -1
+fsw_vfx_a_screen
+  rotate: true
+  xy: 759, 673
+  size: 756, 781
+  orig: 756, 781
+  offset: 0, 0
+  index: -1
+fsw_vfx_b_add
+  rotate: true
+  xy: 759, 1
+  size: 670, 666
+  orig: 670, 666
+  offset: 0, 0
+  index: -1
+fsw_vfx_c_screen
+  rotate: false
+  xy: 1, 637
+  size: 756, 792
+  orig: 756, 792
+  offset: 0, 0
+  index: -1

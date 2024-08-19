@@ -1,0 +1,27 @@
+
+bw_bottom.jpg
+size: 1221,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_b_01_add
+  rotate: false
+  xy: 408, 1
+  size: 405, 605
+  orig: 405, 605
+  offset: 0, 0
+  index: -1
+bw_vfx_b_02_add
+  rotate: false
+  xy: 815, 1
+  size: 405, 605
+  orig: 405, 605
+  offset: 0, 0
+  index: -1
+bw_vfx_b_03_add
+  rotate: false
+  xy: 1, 1
+  size: 405, 605
+  orig: 405, 605
+  offset: 0, 0
+  index: -1

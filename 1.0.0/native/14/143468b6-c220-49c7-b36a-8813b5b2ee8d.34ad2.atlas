@@ -1,0 +1,245 @@
+
+symbols.png
+size: 448,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_flare
+  rotate: false
+  xy: 4, 1770
+  size: 284, 274
+  orig: 284, 274
+  offset: 0, 0
+  index: -1
+h_doll_big_shadow
+  rotate: true
+  xy: 250, 775
+  size: 163, 107
+  orig: 163, 107
+  offset: 0, 0
+  index: -1
+h_doll_blue_btm
+  rotate: 270
+  xy: 321, 15
+  size: 138, 119
+  orig: 138, 119
+  offset: 0, 0
+  index: -1
+h_doll_blue_btm_inner
+  rotate: true
+  xy: 365, 1047
+  size: 136, 64
+  orig: 136, 64
+  offset: 0, 0
+  index: -1
+h_doll_blue_top
+  rotate: false
+  xy: 275, 477
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+h_doll_small_shadow
+  rotate: false
+  xy: 292, 1787
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+h_doll_yellow
+  rotate: false
+  xy: 292, 128
+  size: 113, 189
+  orig: 113, 189
+  offset: 0, 0
+  index: -1
+h_egg_blue
+  rotate: true
+  xy: 4, 23
+  size: 151, 159
+  orig: 151, 159
+  offset: 0, 0
+  index: -1
+h_egg_blue_bg_glow
+  rotate: true
+  xy: 4, 1123
+  size: 199, 267
+  orig: 199, 267
+  offset: 0, 0
+  index: -1
+h_egg_blue_gold
+  rotate: true
+  xy: 4, 621
+  size: 151, 215
+  orig: 151, 215
+  offset: 0, 0
+  index: -1
+h_egg_blue_shadow
+  rotate: true
+  xy: 229, 607
+  size: 164, 109
+  orig: 164, 109
+  offset: 0, 0
+  index: -1
+h_egg_blue_stand
+  rotate: false
+  xy: 292, 1328
+  size: 105, 55
+  orig: 105, 56
+  offset: 0, 0
+  index: -1
+h_egg_blue_stand_base
+  rotate: true
+  xy: 382, 1656
+  size: 129, 36
+  orig: 130, 37
+  offset: 0, 0
+  index: -1
+h_egg_green
+  rotate: 180
+  xy: 164, 5
+  size: 155, 159
+  orig: 155, 159
+  offset: 0, 0
+  index: -1
+h_egg_green_bg_glow
+  rotate: true
+  xy: 4, 1326
+  size: 205, 284
+  orig: 205, 284
+  offset: 0, 0
+  index: -1
+h_egg_green_gold
+  rotate: true
+  xy: 4, 775
+  size: 155, 233
+  orig: 155, 233
+  offset: 0, 0
+  index: -1
+h_egg_green_shadow
+  rotate: true
+  xy: 202, 314
+  size: 178, 116
+  orig: 178, 116
+  offset: 0, 0
+  index: -1
+h_egg_green_stand
+  rotate: true
+  xy: 360, 874
+  size: 154, 84
+  orig: 155, 85
+  offset: 0, 0
+  index: -1
+h_egg_red
+  rotate: true
+  xy: 4, 315
+  size: 177, 195
+  orig: 182, 195
+  offset: 5, 0
+  index: -1
+h_egg_red_bg_glow
+  rotate: true
+  xy: 4, 1535
+  size: 231, 299
+  orig: 231, 299
+  offset: 0, 0
+  index: -1
+h_egg_red_gold
+  rotate: true
+  xy: 4, 934
+  size: 186, 242
+  orig: 186, 242
+  offset: 0, 0
+  index: -1
+h_egg_red_shadow
+  rotate: false
+  xy: 4, 495
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+h_egg_red_stand
+  rotate: false
+  xy: 307, 1542
+  size: 75, 25
+  orig: 79, 25
+  offset: 1, 0
+  index: -1
+h_egg_red_stand_base
+  rotate: true
+  xy: 343, 616
+  size: 188, 58
+  orig: 188, 63
+  offset: 0, 0
+  index: -1
+l_a
+  rotate: true
+  xy: 4, 177
+  size: 134, 141
+  orig: 134, 141
+  offset: 0, 0
+  index: -1
+l_a_shadow
+  rotate: true
+  xy: 307, 1643
+  size: 141, 72
+  orig: 141, 72
+  offset: 0, 0
+  index: -1
+l_a_shine
+  rotate: true
+  xy: 149, 176
+  size: 134, 141
+  orig: 134, 141
+  offset: 0, 0
+  index: -1
+l_k
+  rotate: false
+  xy: 250, 984
+  size: 119, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+l_k_shadow
+  rotate: false
+  xy: 307, 1570
+  size: 119, 69
+  orig: 119, 69
+  offset: 0, 0
+  index: -1
+l_k_shine
+  rotate: false
+  xy: 275, 1187
+  size: 119, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+l_q
+  rotate: false
+  xy: 292, 1898
+  size: 108, 146
+  orig: 108, 146
+  offset: 0, 0
+  index: -1
+l_q_shadow
+  rotate: false
+  xy: 322, 398
+  size: 108, 74
+  orig: 108, 74
+  offset: 0, 0
+  index: -1
+l_q_shine
+  rotate: false
+  xy: 292, 1385
+  size: 108, 146
+  orig: 108, 146
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 322, 356
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+

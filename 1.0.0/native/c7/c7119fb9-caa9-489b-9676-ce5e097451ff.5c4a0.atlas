@@ -1,0 +1,312 @@
+
+gzk.jpg
+size: 2013,2039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_vfx_a_add/fs_vfx_a_add_04
+  rotate: false
+  xy: 1, 1352
+  size: 238, 686
+  orig: 420, 1050
+  offset: 89, 192
+  index: -1
+fs_vfx_a_add/fs_vfx_a_add_05
+  rotate: true
+  xy: 1064, 513
+  size: 236, 684
+  orig: 420, 1050
+  offset: 90, 193
+  index: -1
+fs_vfx_a_add/fs_vfx_a_add_06
+  rotate: true
+  xy: 241, 1353
+  size: 234, 682
+  orig: 420, 1050
+  offset: 91, 194
+  index: -1
+fs_vfx_a_add/fs_vfx_a_add_07
+  rotate: true
+  xy: 925, 1363
+  size: 224, 676
+  orig: 420, 1050
+  offset: 96, 199
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_00
+  rotate: true
+  xy: 241, 1589
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_01
+  rotate: true
+  xy: 853, 1589
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_02
+  rotate: true
+  xy: 613, 902
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_03
+  rotate: false
+  xy: 1225, 751
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_04
+  rotate: false
+  xy: 613, 290
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_05
+  rotate: false
+  xy: 1, 289
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_06
+  rotate: true
+  xy: 1064, 62
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_14
+  rotate: true
+  xy: 1, 901
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_08
+  rotate: false
+  xy: 1676, 1
+  size: 276, 510
+  orig: 350, 575
+  offset: 36, 65
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_09
+  rotate: true
+  xy: 452, 12
+  size: 276, 532
+  orig: 350, 575
+  offset: 36, 43
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_10
+  rotate: true
+  xy: 1465, 1762
+  size: 276, 547
+  orig: 350, 575
+  offset: 36, 24
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_11
+  rotate: false
+  xy: 1676, 1231
+  size: 276, 529
+  orig: 350, 575
+  offset: 36, 43
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_14
+  rotate: false
+  xy: 1676, 752
+  size: 274, 477
+  orig: 350, 575
+  offset: 38, 92
+  index: -1
+
+gzk2.jpg
+size: 1994,1731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_vfx_a_add/fs_vfx_a_add_00
+  rotate: true
+  xy: 1, 1554
+  size: 176, 626
+  orig: 420, 1050
+  offset: 120, 224
+  index: -1
+fs_vfx_a_add/fs_vfx_a_add_01
+  rotate: true
+  xy: 629, 1554
+  size: 176, 634
+  orig: 420, 1050
+  offset: 120, 224
+  index: -1
+fs_vfx_a_add/fs_vfx_a_add_02
+  rotate: true
+  xy: 1265, 1554
+  size: 176, 636
+  orig: 420, 1050
+  offset: 120, 224
+  index: -1
+fs_vfx_a_add/fs_vfx_a_add_03
+  rotate: true
+  xy: 639, 1316
+  size: 236, 682
+  orig: 420, 1050
+  offset: 90, 194
+  index: -1
+fs_vfx_a_add/fs_vfx_a_add_08
+  rotate: true
+  xy: 1, 1374
+  size: 178, 636
+  orig: 420, 1050
+  offset: 119, 223
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_07
+  rotate: true
+  xy: 1, 3
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_08
+  rotate: true
+  xy: 613, 1
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_09
+  rotate: true
+  xy: 1225, 1
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_00
+  rotate: true
+  xy: 497, 1040
+  size: 274, 486
+  orig: 350, 575
+  offset: 38, 89
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_01
+  rotate: true
+  xy: 985, 1006
+  size: 274, 481
+  orig: 350, 575
+  offset: 38, 84
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_02
+  rotate: true
+  xy: 1323, 1282
+  size: 270, 490
+  orig: 350, 575
+  offset: 42, 85
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_03
+  rotate: true
+  xy: 1, 1100
+  size: 272, 494
+  orig: 350, 575
+  offset: 40, 81
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_04
+  rotate: true
+  xy: 1468, 1006
+  size: 274, 502
+  orig: 350, 575
+  offset: 38, 73
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_05
+  rotate: true
+  xy: 964, 730
+  size: 274, 508
+  orig: 350, 575
+  offset: 38, 67
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_06
+  rotate: true
+  xy: 979, 452
+  size: 276, 506
+  orig: 350, 575
+  offset: 36, 69
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_07
+  rotate: true
+  xy: 1487, 452
+  size: 276, 506
+  orig: 350, 575
+  offset: 36, 69
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_12
+  rotate: true
+  xy: 1, 546
+  size: 276, 484
+  orig: 350, 575
+  offset: 36, 91
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_13
+  rotate: true
+  xy: 1, 824
+  size: 274, 486
+  orig: 350, 575
+  offset: 38, 89
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_15
+  rotate: true
+  xy: 489, 764
+  size: 274, 473
+  orig: 350, 575
+  offset: 38, 92
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_16
+  rotate: true
+  xy: 1474, 730
+  size: 274, 477
+  orig: 350, 575
+  offset: 38, 87
+  index: -1
+sd_vfx_a_add/sd_vfx_a_add_17
+  rotate: true
+  xy: 487, 454
+  size: 274, 490
+  orig: 350, 575
+  offset: 38, 85
+  index: -1
+
+gzk3.jpg
+size: 1804,612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_vfx_b_screen/fs_vfx_b_screen_10
+  rotate: false
+  xy: 1, 1
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_11
+  rotate: false
+  xy: 452, 1
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_12
+  rotate: false
+  xy: 903, 1
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
+fs_vfx_b_screen/fs_vfx_b_screen_13
+  rotate: false
+  xy: 1354, 1
+  size: 449, 610
+  orig: 449, 610
+  offset: 0, 0
+  index: -1
